@@ -17,9 +17,7 @@ do
  fi
 done
 
-if [ -e "/bin/ls" ]; then
-   echo "============="
-fi
+
 
 #打印日期
 d=`date '+%Y-%m-%d %H:%M:S'`
